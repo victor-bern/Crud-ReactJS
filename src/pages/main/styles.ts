@@ -20,6 +20,21 @@ export const Container = styled.div`
     padding-top: 50px;
     text-align: center;
   }
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 110px;
+    margin-right: 5px;
+    text-decoration: none;
+    transition: transform 0.3s;
+
+    &:hover {
+      transform: translateX(5px);
+    }
+  }
 `;
 
 export const Form = styled.form`
