@@ -13,6 +13,7 @@ export const Container = styled.div`
   margin: 0 auto;
   background: white;
   display: block;
+  border-radius: 3px;
 
   h2 {
     box-sizing: border-box;
