@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## In this project i use:
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/docs)
+- [Axios](https://github.com/axios/axios)
+
+You can see this project working [here](https://youtu.be/3sUpx9DL4qw)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
